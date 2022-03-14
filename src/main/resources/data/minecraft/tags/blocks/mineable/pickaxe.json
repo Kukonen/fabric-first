@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "fabricfirst:mythril_block",
+    "fabricfirst:mythril_ore",
+    "fabricfirst:deepslate_mythril_ore",
+    "fabricfirst:netherrack_mythril_ore",
+    "fabricfirst:raw_mythril_block"
+  ]
+}

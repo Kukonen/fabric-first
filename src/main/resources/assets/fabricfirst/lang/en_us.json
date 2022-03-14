@@ -4,5 +4,7 @@
   "item.fabricfirst.raw_mythril": "Raw Mythril",
 
   "block.fabricfirst.mythril_block": "Mythril Block",
-  "block.fabricfirst.mythril_ore": "Mythril Ore"
+  "block.fabricfirst.mythril_ore": "Mythril Ore",
+
+  "itemGroup.fabricfirst.mythril": "Mythril mod"
 }

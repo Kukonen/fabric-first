@@ -4,5 +4,7 @@
   "item.fabricfirst.raw_mythril": "Рав Мифрил",
 
   "block.fabricfirst.mythril_block": "Мифриловый блок",
-  "block.fabricfirst.mythril_ore": "Мифриловая руда"
+  "block.fabricfirst.mythril_ore": "Мифриловая руда",
+
+  "itemGroup.fabricfirst.mythril": "Мифриловый Мод"
 }

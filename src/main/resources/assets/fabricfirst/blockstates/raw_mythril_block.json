@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabricfirst:block/raw_mythril_block"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "fabricfirst:mythril_block"
+    }
+  ],
+  "result": {
+    "item": "fabricfirst:mythril_ingot",
+    "count": 9
+  }
+}
