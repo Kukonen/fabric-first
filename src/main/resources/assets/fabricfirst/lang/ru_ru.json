@@ -1,5 +1,8 @@
 {
   "item.fabricfirst.mythril_ingot": "Мифриловый Айгот",
   "item.fabricfirst.mythril_nugget": "Мифриловый Нагет",
-  "item.fabricfirst.raw_mythril": "Рав Мифрил"
+  "item.fabricfirst.raw_mythril": "Рав Мифрил",
+
+  "block.fabricfirst.mythril_block": "Мифриловый блок",
+  "block.fabricfirst.mythril_ore": "Мифриловая руда"
 }
