@@ -1,7 +1,7 @@
 package net.evgenniy.fabricfirst;
 
 import net.evgenniy.fabricfirst.block.ModBlocks;
-import net.evgenniy.fabricfirst.items.ModItems;
+import net.evgenniy.fabricfirst.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

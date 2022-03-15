@@ -6,5 +6,10 @@
   "block.fabricfirst.mythril_block": "Мифриловый блок",
   "block.fabricfirst.mythril_ore": "Мифриловая руда",
 
-  "itemGroup.fabricfirst.mythril": "Мифриловый Мод"
+  "itemGroup.fabricfirst.mythril": "Мифриловый Мод",
+
+  "item.fabricfirst.dowsing_rod": "Биолокационный Cтержень",
+  "item.fabricfirst.dowsing_rod.no_valuable": "Ничего не найдено!",
+
+  "block.fabricfirst.speedy_block": "Быстрый Блок"
 }

@@ -1,4 +1,4 @@
-package net.evgenniy.fabricfirst.items;
+package net.evgenniy.fabricfirst.item;
 
 import net.evgenniy.fabricfirst.FabricFirst;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;

@@ -1,7 +1,8 @@
 package net.evgenniy.fabricfirst.block;
 
 import net.evgenniy.fabricfirst.FabricFirst;
-import net.evgenniy.fabricfirst.items.ModItemGroup;
+import net.evgenniy.fabricfirst.block.custom.SpeedyBlock;
+import net.evgenniy.fabricfirst.item.ModItemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -27,6 +28,10 @@ public class ModBlocks {
 
     public static final Block RAW_MYTHRIL_BLOCK = registerBlock("raw_mythril_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.MYTHRIL);
+
+    public static final Block SPEEDY_BLOCK = registerBlock("speedy_block",
+            new SpeedyBlock(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.MYTHRIL);
+
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {
         registerBlockItem(name, block, group);

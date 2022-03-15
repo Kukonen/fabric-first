@@ -6,5 +6,10 @@
   "block.fabricfirst.mythril_block": "Mythril Block",
   "block.fabricfirst.mythril_ore": "Mythril Ore",
 
-  "itemGroup.fabricfirst.mythril": "Mythril mod"
+  "itemGroup.fabricfirst.mythril": "Mythril mod",
+
+  "item.fabricfirst.dowsing_rod": "Dowsing Rod",
+  "item.fabricfirst.dowsing_rod.no_valuable": "Nothing found!",
+
+  "block.fabricfirst.speedy_block": "Speedy Block"
 }
