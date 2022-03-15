@@ -11,5 +11,9 @@
   "item.fabricfirst.dowsing_rod": "Dowsing Rod",
   "item.fabricfirst.dowsing_rod.no_valuable": "Nothing found!",
 
-  "block.fabricfirst.speedy_block": "Speedy Block"
+  "block.fabricfirst.speedy_block": "Speedy Block",
+
+  "item.fabricfirst.lilac_flower_bulb": "Lilac Flower Bulb",
+
+  "item.fabricfirst.grape": "Grape"
 }

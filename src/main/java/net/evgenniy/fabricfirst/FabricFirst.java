@@ -2,6 +2,7 @@ package net.evgenniy.fabricfirst;
 
 import net.evgenniy.fabricfirst.block.ModBlocks;
 import net.evgenniy.fabricfirst.item.ModItems;
+import net.evgenniy.fabricfirst.util.ModRegistries;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,5 +16,7 @@ public class FabricFirst implements ModInitializer {
 	public void onInitialize() {
 		ModBlocks.registerModBlocks();
 		ModItems.registerModItems();
+
+		ModRegistries.registerModStaff();
 	}
 }

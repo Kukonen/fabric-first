@@ -11,5 +11,9 @@
   "item.fabricfirst.dowsing_rod": "Биолокационный Cтержень",
   "item.fabricfirst.dowsing_rod.no_valuable": "Ничего не найдено!",
 
-  "block.fabricfirst.speedy_block": "Быстрый Блок"
+  "block.fabricfirst.speedy_block": "Быстрый Блок",
+
+  "item.fabricfirst.lilac_flower_bulb": "Луковица Цветка Сирени",
+
+  "item.fabricfirst.grape": "Виноград"
 }
